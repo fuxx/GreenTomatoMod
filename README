@@ -1,0 +1,24 @@
+A Call of Duty:Black Ops administration tool written in c++ for linux/osx
+
+Not finished cause i have no time anymore.
+
+
+You will need boost regex and ncurses to get it work.
+
+How to use?
+Copy the .ini template and configure with your own settings.
+
+Start with "gtm config.ini"
+
+
+Multiple instances are possible.
+Released under GPLv3!
+
+
+http://www.stefanpopp.de
+Twitter: fuxx0r
+
+
+Have fun!
+Hopefully it helps someone
+
